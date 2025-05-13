@@ -1,0 +1,10 @@
+a=5
+b="Vilokya" 
+c=5.5
+d=True
+print(a,type(a))
+print(b,type(b))
+print(c,type(c))
+print(d,type(d))
+e=int(c)
+print(e,type(e))
